@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "git": "^0.1.5"
+    "@types/jwt-decode": "^3.1.0",
+    "git": "^0.1.5",
+    "jwt-decode": "^4.0.0"
   }
 }

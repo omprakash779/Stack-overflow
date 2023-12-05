@@ -1,7 +1,8 @@
 import React, { useEffect } from 'react'
 import './Navbar.css'
 import { Link, useNavigate } from 'react-router-dom'
-import decode from 'jwt-decode'
+// import decode from 'jwt-decode'
+import * as decode from 'jwt-decode';
 import logo from '../../assets/logo.png'
 import search from '../../assets/search.png'
 import Avatar from '../../Components/Avatar/Avatar'
